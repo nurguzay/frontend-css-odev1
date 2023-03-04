@@ -1,0 +1,28 @@
+body {
+    list-style-position: inside;
+    text-align: center;
+}
+#first-article {
+    background-color: #AAE3E2; 
+    color: #663366;
+    padding: 10px;
+}
+
+#second-article {
+    background-color: #D9ACF5;
+    color: #663399;
+    padding: 10px;
+}
+
+#third-article {
+    background-color: #FFCEFE;
+    color: #6666FF;
+    padding: 10px;
+}
+
+#artic {
+    background-color: #FDEBED;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding: 20px;
+}
